@@ -2,5 +2,5 @@ APRIL RESOLUSI
 - Mendalami HTML, CSS dan JavaScript
 - Membuat website Portfolio
 - Belajar bahasa pemrograman Python
-- Mengupload website Portfolio ke github
 - Membuat website dengan template Boostrap
+- Belajar Framework Laravel
