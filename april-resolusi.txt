@@ -1,6 +1,0 @@
-APRIL RESOLUSI
-- Belajar Bahasa Pemrogrman Python
-- Memperdalam HTML, CSS dan Javascript
-- Membuat website portfolio yang bisa diakses semua orang
-- Belajar node.js
-- Membuat website dengan template Boostrap
